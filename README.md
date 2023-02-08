@@ -1,7 +1,7 @@
-**ARS Consulting Customer Feedback Classification Model with KoBERT and LSTM**  
-KoBERT와 LSTM 기반 ARS 상담 고객 피드백 분류 모델 제안
+**ARS Customer Feedback Classification Model with KoBERT and LSTM**  
+KoBERT와 LSTM 기반 ARS 고객 피드백 분류 모델 제안
 ---
-2021 S사에서 주관한 [ARS 상담 고객 피드백 분류 ]에 참가하였습니다.  
+2021 S사에서 주관한 [ARS 고객 피드백 분류 ]에 참가하였습니다.  
 
 OVERVIEW
 ---
